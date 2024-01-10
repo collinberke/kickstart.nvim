@@ -9,4 +9,3 @@ return {
     vim.keymap.set("n", "<leader>h", ":call g:SendCmdToR('run_app()')<CR>")
   end
 }
-
